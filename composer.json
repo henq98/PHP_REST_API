@@ -1,0 +1,9 @@
+{
+  "name": "henrique/rest_api",
+  "description": "RESTful API",
+  "autoload": {
+    "psr-4": {
+      "src\\": "src/"
+    }
+  }
+}
